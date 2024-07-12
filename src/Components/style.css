@@ -1,0 +1,228 @@
+.landing {
+  font-size: 1.5rem;
+}
+
+.text-uppercase {
+  font-size: 2rem;
+}
+
+.header_logo img {
+  max-width: 150px;
+  width: 100%;
+  text-align: center;
+}
+.game_head_title {
+  font-weight: bold;
+  font-size: 35px;
+}
+
+.wallet_btn {
+  border-radius: 30px;
+  font-weight: bold;
+  cursor: pointer;
+  font-size: 20px;
+  padding: 5px 20px;
+  margin-top: 20px;
+}
+
+video {
+  width: 100%;
+}
+
+.input-number {
+  background: black !important;
+  color: #ffffff !important;
+  border: 0;
+  text-align: center;
+}
+
+.mint_count {
+  display: flex;
+  font-size: 20px;
+}
+
+.mint_count button {
+  border: none;
+}
+
+.quantity_box {
+  width: 120px;
+  display: inline-flex;
+}
+
+.price_value_box {
+  /* border: 1px solid; */
+  border: none;
+  font-size: 20px;
+  font-weight: bold;
+  width: 100px;
+  /* padding: 5px; */
+  /* border-radius: 10px; */
+}
+
+.field_label {
+  font-weight: bold;
+}
+
+.mint-btn {
+  border-radius: 30px;
+  font-weight: bold;
+  font-size: 15px;
+  padding: 8px 12px;
+}
+
+.footer {
+  background: #050038;
+}
+
+.footer a {
+  color: #ffffff;
+}
+
+.footer_social a {
+  color: #ffffff;
+  margin: 2px;
+}
+
+.footer_menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.footer_menu a {
+  text-decoration: none;
+}
+
+.success_msg {
+  font-weight: bold;
+  color: #008000;
+}
+
+.failure_msg {
+  font-weight: bold;
+  color: #ff0000;
+}
+
+.pet_video {
+  width: 100%;
+}
+
+.countdown ul {
+  margin: 0;
+  padding: 0;
+  display: inline;
+}
+
+.countdown li {
+  display: inline;
+}
+
+.countdown li span {
+  padding-right: 5px;
+}
+
+span.timer_title {
+  font-weight: bold;
+}
+div.countdown {
+  color: #e4bd22;
+  font-size: 20px;
+}
+
+.lucky-section i {
+  color: #ffc83d;
+}
+
+.lucky-section {
+  background-color: #1a1a1a;
+}
+
+.lucky-section p {
+  font-size: 2rem;
+}
+
+.star_lucky {
+  font-size: 4rem;
+}
+
+.lucky_text {
+  font-size: 3rem;
+}
+
+.min-btn-section {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.btn-mint-blue,
+.btn-mint-yellow {
+  display: block;
+  width: 135px;
+  font-family: inherit;
+  font-size: 18px;
+  font-weight: 700;
+  border-radius: 12px;
+  padding: 10px 18px;
+  border: 0;
+  cursor: pointer;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.btn-mint-blue {
+  background: rgb(55, 58, 108);
+  background: linear-gradient(
+    0deg,
+    rgba(55, 58, 108, 1) 0%,
+    rgba(59, 144, 189, 1) 100%
+  );
+  color: #ffffff;
+}
+
+.btn-mint-blue:hover {
+  opacity: 0.92;
+}
+
+.btn-mint-yellow:hover {
+  opacity: 0.92;
+}
+
+.btn-mint-yellow {
+  background: rgb(254, 206, 47);
+  background: linear-gradient(
+    0deg,
+    rgba(254, 206, 47, 1) 0%,
+    rgba(228, 212, 114, 0.9) 100%
+  );
+  color: #ffffff;
+}
+
+.min-btn-section span {
+  font-weight: 700;
+}
+
+.game_head_desc {
+  font-size: 30px;
+}
+
+.timer_title {
+  font-size: 20px;
+}
+
+.nft-title {
+  font-size: 40px;
+  font-weight: 400;
+}
+
+.nft_desc {
+  font-size: 25px;
+}
+
+.nft-supply {
+  margin-top: 10px;
+}
+
+.right_part {
+  font-size: 20px;
+}
